@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import Login from "./components/Login";
 import 'bootstrap/dist/css/bootstrap.min.css';
-import "./app.css";
+import "./App.css";
 import Register from "./components/Register";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Profile from "./components/Profile";
