@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#header-login {
+    height: 500px;
+    padding: 70px;
+    width: 100%;
+    background-image: linear-gradient(to bottom right, rgba(32, 87, 142, 0.81), rgba(255,255,255,0.09)),url("");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}

@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#header-profile {
+    width: 500px;
+    padding: 70px;
+    width: 100%;
+    background-image: linear-gradient(to bottom right, rgba(32, 127, 142, 0.91), rgba(214, 193, 193, 0.908)),url("");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}

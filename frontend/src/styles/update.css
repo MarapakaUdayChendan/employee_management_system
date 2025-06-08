@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#header-update {
+    height: 500px;
+    padding: 70px;
+    width: 100%;
+    background-image: linear-gradient(to bottom right, rgba(16, 1, 103, 0.81), rgba(68, 144, 152, 0.904)),url("");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
